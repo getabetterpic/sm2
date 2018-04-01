@@ -7,5 +7,5 @@ Gem::Specification.new do |s|
   s.homepage = 'https://github.com/getabetterpic/sm2'
   s.files = ['lib/sm2.rb', 'lib/sm2/fact.rb']
   s.license = 'MIT'
-  s.add_development_dependency 'rspec', '~>3.7.0'
+  s.add_development_dependency 'rspec', '~> 3.7', '>= 3.7.0'
 end
