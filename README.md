@@ -28,3 +28,7 @@ fact = Sm2::Fact.new(
   interval: 6
 )
 ```
+
+## License
+
+This gem is released under the [MIT License](https://opensource.org/licenses/MIT).
