@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'sm2_rb'
-  s.version = '0.0.1'
+  s.version = '0.0.2'
   s.summary = 'SuperMemo 2 algorithm implementation'
   s.authors = ['Dan Smith']
   s.email = 'dan@getabetterpic.com'
